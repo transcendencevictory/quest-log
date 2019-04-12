@@ -19,7 +19,7 @@ Holistic Life Design - Categorized and prioritized goalsets, strategized and sch
 
 # core features
 
-Skill Tree; Experience based on tasks accomplished; built-in resume
+Skill Tree; Experience based on tasks accomplished; built-in resume; no levels, no arbitrary skill-points. Just spend the time and learn the skill.
 
 Database of Tutorials; Economically and Socially Incentivised Tutorial Making (in-app currency + upvotes); 
 
