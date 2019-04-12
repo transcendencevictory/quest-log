@@ -7,18 +7,24 @@ Talent + Skills Shortage: As jobs become increasingly specialized, more and more
 Learned Helplessness: Chronic cynicism prevents many adults from beginning to pursue their dreams of uplifting the world.
 
 # Core Concepts
-Justice -
-Forgiveness -
+How do you eat an elephant?
+Invite a bunch of friends over for drinks, music, and fried elephant; then watch how quickly the elephant disappears.
+
+Justice - 
+Forgiveness - 
 
 Holistic Life Design - Categorized and prioritized goalsets, strategized and scheduled.
 
-How do you eat an elephant?
-Invite a bunch of friends over for drinks, music, and elephant; then watch how quickly the elephant disappears.
+
 
 # core features
+
+Skill Tree; Experience based on tasks accomplished; built-in resume
 
 Database of Tutorials; Economically and Socially Incentivised Tutorial Making (in-app currency + upvotes); 
 
 <Creative Process Documentation to create Tutorials>
 
 <In-App Currency Translatable to USD and other real-world currencies>
+
+Party System: Invite friends to tackle quests with you, live; video chat, exp share
